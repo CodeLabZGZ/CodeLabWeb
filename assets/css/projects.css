@@ -1,0 +1,14 @@
+#main .projectcontainer {
+    width: 100%;
+    text-align: center;
+}
+
+#main .projectcontainer .project{
+    width: 30%;
+    border: 2px solid #eeeeee;
+    display: inline-block;
+}
+#main .projectcontainer a{
+    outline: none;
+    border-bottom: 0px;
+}
